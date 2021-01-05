@@ -2,3 +2,5 @@ Violets are red
 Garbonzos are brown
 Everything is up
 Nothing is down
+Going up is always harder
+Than going down
